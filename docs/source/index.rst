@@ -12,7 +12,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development. And iscurrently being edited
+   This project is under active development. And is currently being edited
 
 Contents
 --------
